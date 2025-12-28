@@ -53,10 +53,10 @@ Building **real-world products** with a startup-first mindset.
 <a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white">
 </a><br>
-<a href="#">
+<a href="www.linkedin.com/in/manjeetkeshri">
   <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white">
 </a><br>
-<a href="#">
+<a href="https://www.instagram.com/manjeetkeshrihkp">
   <img src="https://img.shields.io/badge/YouTube-00384d?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
