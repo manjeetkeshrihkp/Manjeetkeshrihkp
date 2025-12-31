@@ -46,7 +46,7 @@ Building **real-world products** with a startup-first mindset.
 
 <br><br>
 
-### 🌐 Connect
+### 🌐 Connect me
 <a href="https://github.com/manjeetkeshrihkp">
   <img src="https://img.shields.io/badge/GitHub-00384d?style=for-the-badge&logo=github&logoColor=white">
 </a><br>
