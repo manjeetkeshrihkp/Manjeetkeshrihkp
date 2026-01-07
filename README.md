@@ -111,9 +111,11 @@ Building **real-world products** with a startup-first mindset.
 <br>
 
 <!-- ✅ ADDED STREAK (YOUR REQUEST) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetkeshrihkp&border=true&border_color=00ACC1&theme=aura&disable_animations=true" />
 </p>
+
+-->
 
 <br>
 
